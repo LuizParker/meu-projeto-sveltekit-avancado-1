@@ -10,14 +10,17 @@
     <div class="offcanvas-header">
       <h5 class="offcanvas-title">Menu</h5>
       <button class="btn-close" data-bs-dismiss="offcanvas" aria-label="Close"></button>
+      
     </div>
+
+
     <div class="offcanvas-body">
       <ul class="navbar-nav me-auto">
+     
         <li class="nav-item">
-          <a class="nav-link active" href="/01">Cap 01</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link active" href="/02">Cap 02</a>
+          <a class="nav-link active" href="/03/formulario">formulario</a>
+
+
         </li>
       </ul>
     </div>
