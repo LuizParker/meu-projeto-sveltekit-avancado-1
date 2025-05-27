@@ -3,14 +3,13 @@
 </script>
 
 <form>
-  <input type="text" name="fruta" placeholder="Qual tua fruta preferida" />
-  <input type="text" name="legume" placeholder="E legume?" />
-  <button type="submit"> Buscar </button>
+  <input name="fruta" placeholder="Qual tua fruta preferida?" />
+  <input name="legume" placeholder="E legume?" />
+  <button>Buscar</button>
 </form>
 
 {#if data.fruta && data.legume}
-  voce gosta da fruta {data.fruta} e do legume {data.legume}
+  <p>Você gosta da fruta {data.fruta} e do legume {data.legume}.</p>
 {:else}
-  Informe uma fruta e um legume...
+  <p>Informe uma fruta e um legume...</p>
 {/if}
- 

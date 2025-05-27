@@ -20,6 +20,17 @@
         <li class="nav-item">
           <a class="nav-link active" href="/03/formulario">formulario</a>
 
+          <li class="nav-item">
+            <a class="nav-link active" href="/03/pokemon">pokemon</a>
+
+            <li class="nav-item">
+              <a class="nav-link active" href="/03/external/posts/1">posts</a>
+
+              <li class="nav-item">
+                <a class="nav-link active" href="/03/external/users/1">users</a>
+            
+  
+
 
         </li>
       </ul>
