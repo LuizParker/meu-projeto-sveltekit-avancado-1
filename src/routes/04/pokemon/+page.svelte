@@ -12,7 +12,7 @@
       if (search) params.set('search', search);
       params.set('page', newPage);
   
-      window.location.href = `/03/pokemon?${params.toString()}`;
+      window.location.href = `/04/pokemon?${params.toString()}`;
     }
   
     function onSearch(event) {
@@ -37,7 +37,7 @@
         <div class="card">
           <img src={p.image} alt={p.name} class="card-img-top" />
           <div class="card-body">
-            <a href={`/03/pokemon/${p.name}`} class="stretched-link text-decoration-none">
+            <a href={`/04/pokemon/${p.name}`} class="stretched-link text-decoration-none">
               <h5 class="card-title text-capitalize">{p.name}</h5>
             </a>
           </div>

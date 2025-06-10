@@ -28,5 +28,5 @@
     {/each}
   </ul>
   
-  <a href="/03/pokemon" class="btn btn-primary mt-3">Voltar à lista</a>
+  <a href="/04/pokemon" class="btn btn-primary mt-3">Voltar à lista</a>
   

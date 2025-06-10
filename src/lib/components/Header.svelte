@@ -18,16 +18,16 @@
       <ul class="navbar-nav me-auto">
      
         <li class="nav-item">
-          <a class="nav-link active" href="/03/formulario">formulario</a>
+          <a class="nav-link active" href="/04/formulario">formulario</a>
 
           <li class="nav-item">
-            <a class="nav-link active" href="/03/pokemon">pokemon</a>
+            <a class="nav-link active" href="/04/pokemon">pokemon</a>
 
             <li class="nav-item">
-              <a class="nav-link active" href="/03/external/posts/1">posts</a>
+              <a class="nav-link active" href="/04/external/posts/1">posts</a>
 
               <li class="nav-item">
-                <a class="nav-link active" href="/03/external/users/1">users</a>
+              <a class="nav-link active" href="/04/external/users/1">users</a>
             
   
 
