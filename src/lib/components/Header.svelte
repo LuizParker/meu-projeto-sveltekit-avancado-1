@@ -28,6 +28,18 @@
 
               <li class="nav-item">
               <a class="nav-link active" href="/04/external/users/1">users</a>
+
+              <li class="nav-item">
+                <a class="nav-link active" href="/06/get/">Forms</a>
+
+                <li class="nav-item">
+                  <a class="nav-link active" href="/06/post/">Post</a>
+
+                  <li class="nav-item">
+                    <a class="nav-link active" href="/06/cadastro-usuario/">Form</a>
+
+                    <li class="nav-item">
+                      <a class="nav-link active" href="/07/irmandades/">irmandade</a>
             
   
 

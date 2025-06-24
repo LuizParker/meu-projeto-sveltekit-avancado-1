@@ -2,7 +2,8 @@ export async function load({ url }) {
     const limit = 20;
     const page = parseInt(url.searchParams.get('page')) || 1;
     const offset = (page - 1) * limit;
-    const maxFirstGen = 151;
+    const maxFirstGen = 151
+  ;
   
     const search = url.searchParams.get('search')?.toLowerCase() || '';
   
